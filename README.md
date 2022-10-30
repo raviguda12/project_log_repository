@@ -2,6 +2,6 @@
 
 Task 1:
 
-Creating and increasing from sample text
+Creating and increasing  text file from sample text
 
 Task 2:
