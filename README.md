@@ -1,7 +1,5 @@
-# project_log_repository
+# project_log_internal
 
-Task 1:
+task1:
 
-Creating and increasing  text file from sample text
-
-Task 2:
+creating an increasing file from the sample text
